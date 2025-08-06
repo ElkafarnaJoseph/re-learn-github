@@ -12,4 +12,5 @@ If we made some changes or updates we can do :
 
 - git status 
 - git add the file u updated
+- git commit
 - git push 
